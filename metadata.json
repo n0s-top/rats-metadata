@@ -1,6 +1,7 @@
 {
-    "name": "RATS",
-    "symbol": "RATS",
-    "description": "Best meme token in the world",
-    "image": "https://raw.githubusercontent.com/n0s-top/rats-logo/main/logo.png"
-  }
+  "name": "RATS",
+  "symbol": "RATS",
+  "uri": "https://raw.githubusercontent.com/n0s-top/rats-metadata/main/metadata.json",
+  "seller_fee_basis_points": 500,  // Adjust this if needed
+  "creators": null  // Adjust if needed (list of creator accounts and shares)
+}
